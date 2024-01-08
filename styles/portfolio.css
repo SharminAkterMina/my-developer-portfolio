@@ -116,6 +116,32 @@ main{
     text-align: center;
 }
 
+/* What I Do related style */
+
 #What-i-do-des{
     padding: 30px 150px;
+}
+.skill-container{
+    display:flex;
+    gap: 24px;
+
+
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    background:white;
+    box-shadow: 0px 6px 50px 0px;
+
+
+    
+}
+.skill-des{
+    color: gray;
+}
+
+/* resume section style */
+.resume-column-title{
+    font-size: 30px;
+    font-weight: 700;
 }
